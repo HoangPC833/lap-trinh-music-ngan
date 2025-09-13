@@ -12,7 +12,7 @@ html,body {
 -webkit-text-size-adjust:100%;
 background-color:#000000;
 color:#ffb700;
-font-size:1.3rem;
+font-size:1.5rem;
 font-family:"Source Sans Pro", arial, sans-serif;
 font-weight:400;
 letter-spacing:.025rem;
@@ -119,7 +119,7 @@ position:relative;
 }
 
 .plTitle {
-left:50px;
+left:70px;
 overflow:hidden;
 position:absolute;
 right:65px;
